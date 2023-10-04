@@ -45,7 +45,7 @@
     "react-aria-modal": "^4.0.2",
     "react-dates": "^21.8.0",
     "react-dom": "^16.14.0",
-    "react-router-dom": "^5.3.0",
+    "react-router-dom": "^6.8.0",
     "react-test-renderer": "^16.14.0",
     "react-tooltip": "^4.5.1",
     "react-with-direction": "^1.4.0",
